@@ -1,0 +1,1 @@
+<span class="bg-white text-green-600 px-2 py-0.5 rounded-full text-sm">{{ $this->count }}</span>
