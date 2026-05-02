@@ -1,5 +1,7 @@
 # 💻 Online laptop store
 
+**🔗 Live Demo:** [https://notebooks.prx.by/](https://notebooks.prx.by/)
+
 ## 📖 Project Description
 
 Notebooks Store is an educational online store for laptops, with data obtained via a parser from 21vek.by. The project demonstrates the creation of a full-featured catalog with filtering, pagination, a shopping cart, and an order form.
