@@ -1,6 +1,6 @@
 # 💻 Интернет магазин ноутбуков
 
-**🔗 Демо версия:** [https://notebooks.prx.by/](https://notebooks.prx.by/)
+**🔗 Проект запущен по адресу:** [https://notebooks.prx.by/](https://notebooks.prx.by/)
 
 ## 📖 Описание проекта
 
